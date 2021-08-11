@@ -5,7 +5,7 @@ Hello there! I'm Kaio Siqueira and it is a pleasure to have you here! I am CEO @
 ---
 **Some facts about me**
 
-* 👨🏽‍💻 I am an Electronic Engineering student @UFRJ;
+* 👨‍💻 I am an Electronic Engineering student @UFRJ;
 * 📝 I am currently developing my skills and learning more about Full Stack Development;
 * 🤩 I'm interested in Systems Engineering, Software Development and Aerospace Engineering. My main objetive is to develop, integrate and consolidate knowledge in these areas;
 
@@ -17,7 +17,7 @@ Hello there! I'm Kaio Siqueira and it is a pleasure to have you here! I am CEO @
 <a href="mailto:kaio.siqueira@poli.ufrj.br"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/512px-Gmail_icon_%282020%29.svg.png" width="30px" alt="gmail"></a>
 
 ---
-#### Here is a brief summary of the softwares, frameworks and tools that I am learning or have already had worked with
+#### Here is a brief summary of the softwares, frameworks and tools that I am learning or have already had worked with 🚀🛰️👨‍💻
 
 ---
 #### Programming Languages
