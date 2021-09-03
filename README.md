@@ -5,7 +5,7 @@ Hello there! I'm Kaio Siqueira and it is a pleasure to have you here! I am CEO @
 ---
 **Some facts about me**
 
-* 👨‍💻 I am an Electronic Engineering student @UFRJ;
+* 👨‍💻 I am an Electronic and Computer Engineering student @UFRJ;
 * 📝 I am currently developing my skills and learning more about Full Stack Development;
 * 🤩 I'm interested in Systems Engineering, Software Development and Aerospace Engineering. My main objetive is to develop, integrate and consolidate knowledge in these areas;
 
