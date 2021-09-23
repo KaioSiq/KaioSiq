@@ -1,6 +1,6 @@
 ### Intro
 
-Hello there! I'm Kaio Siqueira and it is a pleasure to have you here! I am CEO @ Aerospace Research Group (UFRJ) and we're, currently, developing two experimental sounding rockets :rocket: and two nanosatellites 🛰️
+Hello there! I'm Kaio Siqueira and it is a pleasure to have you here! I am part of the Aerospace Research Group (UFRJ) and we're, currently, developing two experimental sounding rockets :rocket: and two nanosatellites 🛰️
 
 ---
 **Some facts about me**
